@@ -1,8 +1,11 @@
 # Arduino-Force-Feedback-Yoke 
 CAD Files for GAGAGU FFB Flight Sim Yoke
 
+V1.35 - https://github.com/gagagu/Arduino_FFB_Yoke
+V2.0 - https://github.com/jwryan4/Arduino-Force-Feedback-Yoke
 
-https://github.com/jwryan4/Arduino-Force-Feedback-Yoke
+V2 uses the electronics and programming of V1.3 located in gagagu's repo.
+
 I am going to try and update as much as I can so that We have everything needed to complete the new V2 project. 
 
 I am not the create nor the designer of this project all credit goes to the wonderful creators https://github.com/jwryan4 & https://github.com/gagagu
